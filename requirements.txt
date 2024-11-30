@@ -1,4 +1,8 @@
 streamlit==1.16.0
 pandas==1.4.4
-pyodbc==4.0.34
 plotly==5.11.0
+sqlalchemy==2.0.27
+python-dotenv==1.0.1
+pymssql==2.2.11        # For SQL Server
+psycopg2-binary==2.9.9 # For PostgreSQL
+pymysql==1.1.0         # For MySQL
